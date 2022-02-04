@@ -1,0 +1,35 @@
+*{
+    font-family: 'Cinzel', serif;
+}
+body{
+    background-color: rgb(248, 175, 175);
+}
+.header_div{
+    background-color: rgb(255, 217, 202);
+    color: rgb(128, 47, 0);
+}
+.header_div p{
+    font-family: 'Special Elite', cursive;
+    color: rgb(153, 105, 51);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.main_div button{
+    font-family: 'Special Elite', cursive;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(141, 142, 143);
+}
